@@ -1,7 +1,7 @@
 package num
 
-// #cgo LDFLAGS: -L. -lstdc++
-// #cgo CXXFLAGS: -std=c++14 -I.
+// #cgo LDFLAGS: -L./src -lnummer -lstdc++
+// #cgo CXXFLAGS: -std=c++14 -I./src
 // #include "num.h"
 import "C"
 import "unsafe"

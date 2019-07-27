@@ -1,0 +1,3 @@
+# do not commit build artifacts
+*.a
+*.o

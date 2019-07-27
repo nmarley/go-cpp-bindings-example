@@ -5,6 +5,10 @@ import (
 	"testing"
 )
 
+func TestSomething(t *testing.T) {
+	Something()
+}
+
 func TestNum(t *testing.T) {
 	num := New()
 	num.Inc()

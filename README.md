@@ -1,3 +1,13 @@
+eha 
+ch a
+e 
+rah er
+ahc 
+ae r
+ar 
+a c
+a dc  bikin owierr io nip iopnwe pino piowpoi epio 
+
 # Go / C++ bindings example
 
 This is an example of Go code calling to a C++ library with a C wrapper.
